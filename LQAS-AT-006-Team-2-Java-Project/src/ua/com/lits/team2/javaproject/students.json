@@ -1,0 +1,10 @@
+{"students":[
+    {"name":"Ihor", "surname":"Ivanytskiy", "age":18, "courses":["Maths", "Physics", "Informatics"]},
+    {"name":"Marta", "surname": "Petriv", "age":17, "courses":["Physics", "Chemistry", "Philisophy"]},
+    {"name": "Petro", "surname": "Khomenko", "age":18, "courses":["Chemistry", "Physics", "English", "History"]},
+    {"name": "Mariya", "surname": "Khomenko", "age":19, "courses":["Informatics", "English", "Biology"]},
+    {"name": "Pavlo", "surname": "Ivanov", "age":16, "courses":[]},
+    {"name": "Abdul", "surname": "Al Jamid", "age":18, "courses":["Maths", "Physics", "Informatics", "English"]},
+    {"name": "Serhiy", "surname": "Ivanov", "age":19, "courses":["Chemistry", "Physics","Informatics"]}   
+	]
+}
